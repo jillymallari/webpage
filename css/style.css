@@ -1,0 +1,24 @@
+h1 {
+	font-size:32px;
+}
+p {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 8px;
+}
+
+ul#list1 {
+	list-style:none;
+	margin: 0;
+}
+
+ul>li {
+	margin: 5px; 0px;
+}
+
+.main-item {
+	color:red;
+}
+li.main-item {
+	text-decoration: underline;
+}
