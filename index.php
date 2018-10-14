@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>My Homepage</title>
+		<title>jillymallari homepage</title>
 		<link rel="stylesheet" href="css/style.css"/>
 		<link rel="stylesheet" href="css/bootstrap.css"/>
 	</head>
